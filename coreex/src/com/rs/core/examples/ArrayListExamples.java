@@ -9,10 +9,10 @@ public class ArrayListExamples {
 	public static void main(String[] args) {
 		List<String> southStates = new ArrayList<String>();
 		
-		System.out.println(southStates);
+		System.out.println(southStates.isEmpty());
 
 		southStates.add("AP");
-		southStates.add("TG");
+		southStates.add("TS");
 		southStates.add("TN");
 		southStates.add("KT");
 		southStates.add(1, "KR");
