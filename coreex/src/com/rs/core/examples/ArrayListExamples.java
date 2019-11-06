@@ -13,7 +13,6 @@ public class ArrayListExamples {
 		southStates.add("TS");
 		southStates.add("TN");
 		southStates.add("KT");
-		southStates.add(1, "KR");
 		// southStates.add(12);
 		southStates.add(null);
 		southStates.add("AP");
